@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-<!--
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitanshm&layout=compact&theme=radical" alt="Top Languages">
   </div>
 </div>
--->
+
